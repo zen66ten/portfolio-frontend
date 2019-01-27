@@ -1,2 +1,2 @@
-# portfolio-frontend
-Portfolio website
+# sgranger2.github.io
+Portfolio Website
